@@ -11,7 +11,8 @@ public class Deneme {
         System.out.println("burcu deneme");
         
         System.out.println("ali..");
-        
+
+        System.out.println("ali..2");
 
     }
 }
