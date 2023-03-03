@@ -7,7 +7,11 @@ public class Deneme {
 
 
 
+
         System.out.println("burcu deneme");
+        
+        System.out.println("ali..");
+        
 
     }
 }
