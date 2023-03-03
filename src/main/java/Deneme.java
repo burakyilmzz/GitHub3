@@ -12,7 +12,12 @@ public class Deneme {
         
         System.out.println("ali..");
 
+
         System.out.println("ali..2");
 
+
+
+
+        System.out.println("desigiklik");
     }
 }
