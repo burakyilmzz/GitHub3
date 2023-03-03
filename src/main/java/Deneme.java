@@ -4,7 +4,14 @@ public class Deneme {
 
         System.out.println("Merhaba");
 
+
+
+
+
+        System.out.println("burcu deneme");
+        
         System.out.println("ali..");
+        
 
     }
 }
